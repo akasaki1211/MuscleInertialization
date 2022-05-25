@@ -12,4 +12,4 @@ Please note that it is not designed to be implemented as-is in games, etc.
 * [慣性補間によるアニメーション遷移を実装してみた](https://hexadrive.jp/hexablog/program/111655/)
 
 ## License
-`.\Assets\unity-chan!` : © Unity Technologies Japan/UCL
+[./Assets/unity-chan!](Assets/unity-chan!) : © Unity Technologies Japan/UCL  
