@@ -367,6 +367,7 @@ namespace MuscleInertialization
             GUILayout.Label("<color=red>Press A, B key to switch anim states.</color>");
             GUILayout.Label($"CurrentState: {_currState}");
             GUILayout.Label($"TransitionTime: {_transitionTime}");
+            GUILayout.Label($"Muscle Count: {_musclesData.Length}");            
 
             /*for (int i = 0; i < _musclesData.Length; i++)
             {
