@@ -1,0 +1,7 @@
+/Assets/UnityChan/* linguist-documentation
+*.shader linguist-documentation
+*.cg linguist-documentation
+*.mat linguist-documentation
+*.fbx linguist-documentation
+
+/Assets/AkBoneDynamics/* linguist-documentation
