@@ -4,15 +4,15 @@
 Inertial interpolation by human muscle values.  
 
 Interpolate with the properties of the [HumanPose class](https://docs.unity3d.com/ScriptReference/HumanPose.html).  
-"muslces" are float interpolated, only "bodyPosition" and "bodyRotation" are interpolated by Vector3 and Quaternion.
+All `muslces` are interpolated by float, `bodyPosition` and `bodyRotation` are interpolated by Vector3 and Quaternion.
 
 > **Note**  
 > This project is for learning and experimental purposes. Please note that it is not designed to be implemented as-is in games, etc. 
 
 ![MuscleInertialization_sample_01.gif](.images/MuscleInertialization_sample_01.gif)  
 
-### [MuscleInertializationTest.cs](.Assets/MuscleInertialization/MuscleInertializationTest.cs)
-Set animation clip to AnimClipA and AnimClipB. Pressing [A] or [B] key toggles animation.  
+### [MuscleInertializationTest.cs](Assets/MuscleInertialization/MuscleInertializationTest.cs)
+Set animation clip to AnimClipA and AnimClipB. Pressing `A` or `B` key toggles animation.  
 
 ![MuscleInertializationTest_Inspector.jpg](.images/MuscleInertializationTest_Inspector.jpg)  
 
